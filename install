@@ -2,3 +2,4 @@
 
 
 chmod +x $(dirname $0)/gwtc
+cp $(dirname $0)/gwtc $HOME/.local/bin/
